@@ -25,10 +25,10 @@
     <referrerPolicyOriginWhenCrossOrigin
     >true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>developer@hnbh.com</siteAdmin>
+    <siteAdmin>hnurhatipoglu@mindful-panda-fk8y0a.com</siteAdmin>
     <siteGuestRecordDefaultOwner
-    >developer@hnbh.com</siteGuestRecordDefaultOwner>
+    >hnurhatipoglu@mindful-panda-fk8y0a.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>hnbh-dev-ed</subdomain>
+    <subdomain>mindful-panda-fk8y0a-dev-ed</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
